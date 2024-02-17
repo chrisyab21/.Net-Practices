@@ -1,0 +1,14 @@
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\bin\Debug\net6.0\PracticaIEnumerables3.exe
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\bin\Debug\net6.0\PracticaIEnumerables3.deps.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\bin\Debug\net6.0\PracticaIEnumerables3.runtimeconfig.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\bin\Debug\net6.0\PracticaIEnumerables3.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\bin\Debug\net6.0\PracticaIEnumerables3.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\refint\PracticaIEnumerables3.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\PracticaIEnumerables3.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\PracticaIEnumerables\PracticaIEnumerables3\obj\Debug\net6.0\ref\PracticaIEnumerables3.dll

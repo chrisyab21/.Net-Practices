@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UYbG/RYbr24pCH26K2ZYr/gmGs9wHRQFGMarsgGkqtirZOH1ymmxGr5XIeRsEJ6bj6RbaHnmD62yTsCGFo4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian\\Desktop\\Estudios y Cursos\\C# y .Net\\WebScraping\\WebScraping\\WebScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christian\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\selenium.support\\4.14.1\\selenium.support.4.14.1.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\selenium.webdriver\\4.14.1\\selenium.webdriver.4.14.1.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\selenium.webdriver.chromedriver\\118.0.5993.7000\\selenium.webdriver.chromedriver.118.0.5993.7000.nupkg.sha512",
+    "C:\\Users\\Christian\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

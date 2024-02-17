@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Dell\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

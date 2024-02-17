@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.exe
+C:\Users\Dell\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.deps.json
+C:\Users\Dell\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+C:\Users\Dell\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.dll
+C:\Users\Dell\source\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.pdb
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.dll
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\refint\Genericos.dll
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.pdb
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Genericos\Genericos\obj\Debug\net6.0\ref\Genericos.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.exe
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.deps.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.runtimeconfig.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\bin\Debug\net6.0\Genericos.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\refint\Genericos.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\Genericos.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\repos\Genericos\Genericos\obj\Debug\net6.0\ref\Genericos.dll

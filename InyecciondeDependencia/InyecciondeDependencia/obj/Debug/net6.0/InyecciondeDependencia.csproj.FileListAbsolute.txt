@@ -1,0 +1,29 @@
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.exe
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.deps.json
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.runtimeconfig.json
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.dll
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.pdb
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.AssemblyInfo.cs
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.dll
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\refint\InyecciondeDependencia.dll
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.pdb
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.genruntimeconfig.cache
+C:\Users\Dell\source\repos\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\ref\InyecciondeDependencia.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.exe
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.deps.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.runtimeconfig.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\bin\Debug\net6.0\InyecciondeDependencia.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\refint\InyecciondeDependencia.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\InyecciondeDependencia.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\InyecciondeDependencia\InyecciondeDependencia\obj\Debug\net6.0\ref\InyecciondeDependencia.dll

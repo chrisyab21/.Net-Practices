@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\bin\Debug\net6.0\IEnumerables.exe
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\bin\Debug\net6.0\IEnumerables.deps.json
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\bin\Debug\net6.0\IEnumerables.runtimeconfig.json
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\bin\Debug\net6.0\IEnumerables.dll
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\bin\Debug\net6.0\IEnumerables.pdb
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.AssemblyInfo.cs
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.dll
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\refint\IEnumerables.dll
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.pdb
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\IEnumerables.genruntimeconfig.cache
+C:\Users\Dell\source\repos\IEnumerables\IEnumerables\obj\Debug\net6.0\ref\IEnumerables.dll

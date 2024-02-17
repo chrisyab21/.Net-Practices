@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\bin\Debug\net6.0\PracticaDeTask.exe
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\bin\Debug\net6.0\PracticaDeTask.deps.json
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\bin\Debug\net6.0\PracticaDeTask.runtimeconfig.json
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\bin\Debug\net6.0\PracticaDeTask.dll
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\bin\Debug\net6.0\PracticaDeTask.pdb
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.dll
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\refint\PracticaDeTask.dll
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.pdb
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\PracticaDeTask.genruntimeconfig.cache
+C:\Users\Dell\source\repos\PracticaDeTask\PracticaDeTask\obj\Debug\net6.0\ref\PracticaDeTask.dll

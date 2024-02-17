@@ -1,0 +1,28 @@
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.exe
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.deps.json
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.runtimeconfig.json
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.dll
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.pdb
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.AssemblyInfo.cs
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.dll
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\refint\PracticaInterfazBasica.dll
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.pdb
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.genruntimeconfig.cache
+C:\Users\Christian\source\repos\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\ref\PracticaInterfazBasica.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.exe
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.deps.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.runtimeconfig.json
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\bin\Debug\net7.0\PracticaInterfazBasica.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.AssemblyInfoInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.AssemblyInfo.cs
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\refint\PracticaInterfazBasica.dll
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.pdb
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\PracticaInterfazBasica.genruntimeconfig.cache
+C:\Users\Christian\Desktop\Estudios y Cursos\C# y .Net\C# and .Net practices\PracticaInterfazBasica\PracticaInterfazBasica\obj\Debug\net7.0\ref\PracticaInterfazBasica.dll
